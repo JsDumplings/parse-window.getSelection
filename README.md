@@ -14,9 +14,9 @@ const parseNodes = parseNodes();
 ```javascript
 [
   	{
-		text: 'TEXT_VALUE_IN_SELECTION', 							// type: string
+		text: 'TEXT_VALUE_IN_SELECTION',    // type: string
 		isPartial: 'WETHER_HTML_NODE_IS_FULLY_INSIDE_THE_SELECTION' // type: boolean
-		parentNode: 'HTML_NODE_CONTAINING_THE_SELECTED_TEXT'		// type: html node
+		parentNode: 'HTML_NODE_CONTAINING_THE_SELECTED_TEXT'    // type: html node
 
 	},
  	...
@@ -25,8 +25,8 @@ const parseNodes = parseNodes();
 
 ### sample demo:
 
-![Alt Text](https://)
-![Alt Text](https://)
+![Alt Text](https://github.com//soheilhm/parse-window.getSelection/blob/master/demo1.png?raw=true)
+![Alt Text](https://github.com//soheilhm/parse-window.getSelection/blob/master/demo2.png?raw=true)
 
 ### sample demo code:
 
