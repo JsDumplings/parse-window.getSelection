@@ -23,9 +23,12 @@ const parseNodes = parseNodes();
 ]
 ```
 
-### sample demo:
+### sample demo screenshots:
 
+before:
 ![Alt Text](https://github.com//soheilhm/parse-window.getSelection/blob/master/demo1.png?raw=true)
+
+after selection and click on parse button:
 ![Alt Text](https://github.com//soheilhm/parse-window.getSelection/blob/master/demo2.png?raw=true)
 
 ### sample demo code:
