@@ -1,6 +1,6 @@
 {
     "name": "parse-window.getselection",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A method that uses html5 window selection API to parse window.getSelection",
     "main": "index.js",
     "scripts": {
