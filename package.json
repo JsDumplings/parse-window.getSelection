@@ -1,8 +1,7 @@
 {
     "name": "parse-window.getselection",
-    "version": "1.0.3",
-    "description":
-        "A method that uses html5 window selection API to parse window.getSelection",
+    "version": "1.0.4",
+    "description": "A method that uses html5 window selection API to parse window.getSelection",
     "main": "index.js",
     "scripts": {
         "build": "babel index.js --out-file build.js",
@@ -13,7 +12,13 @@
         "type": "git",
         "url": "git+https://github.com/soheilhm/parse-window.getSelection.git"
     },
-    "keywords": ["html5", "window", "parseNodes", "getSelection", "range"],
+    "keywords": [
+        "html5",
+        "window",
+        "parseNodes",
+        "getSelection",
+        "range"
+    ],
     "author": "Soheil Hajimohammadi",
     "license": "MIT",
     "bugs": {
