@@ -8,29 +8,6 @@ parse window get selection to obtain the text inside the selection and other use
 import parseNodes from "parse-window.getselection";
 const parseNodes = parseNodes();
 ```
-
-### outputSchema
-
-```javascript
-[
-  	{
-		text: 'TEXT_VALUE_IN_SELECTION',    // type: string
-		isPartial: 'WETHER_HTML_NODE_IS_FULLY_INSIDE_THE_SELECTION' // type: boolean
-		parentNode: 'HTML_NODE_CONTAINING_THE_SELECTED_TEXT'    // type: html node
-
-	},
- 	...
-]
-```
-
-### sample demo screenshots:
-
-before:
-![Alt Text](https://github.com//soheilhm/parse-window.getSelection/blob/master/demo1.png?raw=true)
-
-after selection and click on parse button:
-![Alt Text](https://github.com//soheilhm/parse-window.getSelection/blob/master/demo2.png?raw=true)
-
 ### sample demo code:
 
 ```javascript
